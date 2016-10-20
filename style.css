@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: bisque;
+}
+h1{
+  color:blue;
+  font-size: 20px;
+}
+a {
+  font-size: 30px;
+  color: red;
+  font-style: italic;
+  font-family: Aharoni;
+}
+p{
+  font-style: oblique;
+  font-family: Calibri;
+}
